@@ -1,0 +1,20 @@
+{
+  "name": "zelda-alttp-intro",
+  "version": "1.0.0",
+  "description": "A recreation of the 'Legend of zelda: A link to the past' intro.  ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zelda"
+  ],
+  "author": "Marcus Nilsson",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.1",
+    "gulp": "^3.9.1",
+    "gulp-minify": "^2.1.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
